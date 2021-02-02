@@ -12,7 +12,7 @@ Using this web application, you can record your income and expenses as well as d
 Also, you'll see your balance after considering your income/expenses at the very top.  
 As soon as you open the web app, you'll see your balance presented in a beautiful and simplistic card which is calculated by accumulating all expenses as well as
 income, and then subtracting the total expenses from the total income.
-In the history panel, you may delete any transaction and see the balance and income/expense component renders the new value depending on updated history.
+In the history panel, you may delete any transaction and see the balance and income/expense component render the new value depending on updated history.
 You may also add a transaction with a description and amount. Note that for every expense, please prefix the amount with a '-' sign as stated in the instructions
 above the amount input box. Add the new transaction and see the entire view get updated with new values.
 The frontend of this app is made using React.js, a popular frontend JavaScript library to build UI easily.
