@@ -10,7 +10,7 @@ function Balance() {
   return (
     <div className="balance-container">
         <h4>Balance</h4>
-        <h1>RM {total}</h1>
+        <h2>RM {total}</h2>
     </div>
   );
 }
