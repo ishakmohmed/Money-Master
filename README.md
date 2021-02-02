@@ -1,4 +1,4 @@
-Manage your income and expenses efforlessly, thanks to Money Master presented to you with stunning visuals, which are simplistic, yet very appealing and modern.
+Manage your income and expenses efforlessly, thanks to Money Master web app presented to you with stunning visuals, which are simplistic, yet very appealing and modern.
 
 [1] See Live Version Immediately: http://moneymaster123.herokuapp.com/
 
