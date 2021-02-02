@@ -17,7 +17,7 @@ You may also add a transaction with a description and amount. Note that for ever
 above the amount input box. Add the new transaction and see the entire view get updated with new values.
 The frontend of this app is made using React.js, a popular frontend JavaScript library to build UI easily.
 The backend of this app is made using Node.js, a JavaScript runtime built on Chrome's V8 JavaScript engine, which means it can get executed outside of browser,
-unlike React.js or vanilla/plain JavaScript. This means it can handle databases and other things outside the browser. 
+unlike React.js or vanilla/plain JavaScript. Thus, it can handle databases and other things outside the browser. 
 Together with Node.js, Express.js, a framework for Node.js is used which abstracts away all the complexity of having to create a web server using plain Node.js.
 The database that is used in this app is MongoDB, a super popular document-oriented database with a NoSQL flavour. In simple words, the data aren't divided to multiple
 tables like in a traditional SQL databases such as MySQL or SQL Server, rather, all related data are stored in a document and they can be easily queried.
