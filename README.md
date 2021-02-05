@@ -20,7 +20,7 @@ The backend of this app is made using Node.js, a JavaScript runtime built on Chr
 unlike React.js or vanilla/plain JavaScript. Thus, it can handle databases and other things outside the browser. 
 Together with Node.js, Express.js, a framework for Node.js is used which abstracts away all the complexity of having to create a web server using plain Node.js.
 The database that is used in this app is MongoDB, a super popular document-oriented database with a NoSQL flavour. In simple words, the data aren't divided to multiple
-tables like in a traditional SQL databases such as MySQL or SQL Server, rather, all related data are stored in a document and they can be easily queried.
+tables like in traditional SQL databases such as MySQL or SQL Server, rather, all related data are stored in a document and they can be easily queried.
 These four technologies make up the MERN stack, where M=MongoDB, E=Express.js, R=React.js, N=Node.js. 
 In this web application, I've used the best software engineering practices and new features throughout the codebase. For instance, I've used React Context API and
 several React Hooks such as useState, useContext and useReducer. This means that I don't have to prop drill my components to pass data from a component high up 
